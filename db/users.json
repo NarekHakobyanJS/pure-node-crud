@@ -1,0 +1,26 @@
+[
+    {
+        "id" : 1,
+        "name" : "Ashot",
+        "age" : 34,
+        "gender" : "male"
+    },
+    {
+        "id" : 2,
+        "name" : "Armenuhi",
+        "age" : 14,
+        "gender" : "famale"
+    },
+    {
+        "id" : 3,
+        "name" : "Matos",
+        "age" : 18,
+        "gender" : "male"
+    },
+    {
+        "id" : 4,
+        "name" : "Milena",
+        "age" : 24,
+        "gender" : "famale"
+    }
+]
